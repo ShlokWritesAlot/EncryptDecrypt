@@ -1,0 +1,14 @@
+# Compiled class files
+bin/
+*.class
+
+# Temporary or test artifacts
+*.bin
+*.cfg
+test_*.txt
+
+# IDE metadata
+.vscode/
+.idea/
+*.iml
+.antigravity-ide/
